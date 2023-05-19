@@ -1,0 +1,12 @@
+Most used commands:
+
+Git init
+Git Merge
+Git reset
+ls -al
+cd
+Git remote
+Git push & pull
+touch
+mkdir
+cat
