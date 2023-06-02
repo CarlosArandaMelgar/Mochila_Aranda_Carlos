@@ -1,0 +1,4 @@
+1- Un usuario Root es el super usuario el cual tiene todo los permisos.
+2- Procesos Normales, Procesos Daemon, Procesos Zombie
+3- Con TOP podemos ver todos los procesos y sus tipos
+4- Con passwd root cambiamos la pass
